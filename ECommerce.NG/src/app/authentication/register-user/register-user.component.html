@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+</head>
+
+<body>
+    <section class="vh-100" style="background-color: #2779e2;">
+        <div class="container h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-xl-9">
+                    <h1 class="text-white mb-4">Register</h1>
+                    <div *ngIf="this.showError" class="alert alert-danger" role="alert">{{errorMessage}}</div>
+                    <form [formGroup]='registerForm' autocomplete="off" novalidate (ngSubmit)="registerUser(registerForm.value)">
+                        <div class="card" style="border-radius: 15px;">
+                            <div class="card-body">
+                                <div class="row align-items-center pt-4 pb-3">
+                                    <div class="col-md-3 ps-5">
+                                        <h6 class="mb-0">First name*</h6>
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+                                        <input type="text" formControlName="firstName" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <div class="row align-items-center pt-4 pb-3">
+                                    <div class="col-md-3 ps-5">
+                                        <h6 class="mb-0">Last name*</h6>
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+                                        <input type="text" formControlName="lastName" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+                                        <h6 class="mb-0">Username*</h6>
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+                                        <input type="text" formControlName="username" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+                                        <h6 class="mb-0">Email*</h6>
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+                                        <input type="text" formControlName="email" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+                                        <h6 class="mb-0">Password*</h6>
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+                                        <input type="password" formControlName="password" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+
+                                        <h6 class="mb-0">Address</h6>
+
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+                                        <input type="text" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <hr class="mx-n3">
+                                <div class="px-5 py-4">
+                                    <button type="submit" class="btn btn-primary btn-lg">Register</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

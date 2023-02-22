@@ -1,0 +1,42 @@
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.deps.json
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.runtimeconfig.json
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.csproj.AssemblyReference.cache
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.AssemblyInfoInputs.cache
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.AssemblyInfo.cs
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.csproj.CoreCompileInputs.cache
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\refint\e-Commerce.Data.dll
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.genruntimeconfig.cache
+D:\csCode\random\e-Commerce Website\e-Commerce.Data\obj\Debug\net6.0\ref\e-Commerce.Data.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.deps.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.runtimeconfig.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.csproj.AssemblyReference.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.AssemblyInfoInputs.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.AssemblyInfo.cs
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.csproj.CoreCompileInputs.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\refint\e-Commerce.Data.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.genruntimeconfig.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\ref\e-Commerce.Data.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.deps.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.runtimeconfig.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\bin\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.csproj.AssemblyReference.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.AssemblyInfoInputs.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.AssemblyInfo.cs
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.csproj.CoreCompileInputs.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\refint\e-Commerce.Data.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\e-Commerce.Data.genruntimeconfig.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce.Data\obj\Debug\net6.0\ref\e-Commerce.Data.dll

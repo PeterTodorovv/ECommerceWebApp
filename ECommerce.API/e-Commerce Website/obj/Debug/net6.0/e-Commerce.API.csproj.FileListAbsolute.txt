@@ -1,0 +1,288 @@
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\appsettings.Development.json
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\appsettings.json
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.exe
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.deps.json
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.runtimeconfig.json
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.pdb
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\AutoMapper.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Azure.Core.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Azure.Identity.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Humanizer.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.CodeDom.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Memory.Data.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Text.Json.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.AssemblyReference.cache
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.AssemblyInfoInputs.cache
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.AssemblyInfo.cs
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.CoreCompileInputs.cache
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\staticwebassets.build.json
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\staticwebassets.development.json
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\scopedcss\bundle\e-Commerce.API.styles.css
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.CopyComplete
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\refint\e-Commerce.API.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.pdb
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.genruntimeconfig.cache
+D:\csCode\random\e-Commerce Website\e-Commerce Website\obj\Debug\net6.0\ref\e-Commerce.API.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Services.dll
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\random\e-Commerce Website\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Services.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\appsettings.Development.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\appsettings.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.exe
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.deps.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.runtimeconfig.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\AutoMapper.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Azure.Core.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Azure.Identity.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Humanizer.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.CodeDom.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Memory.Data.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Text.Json.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Services.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Services.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.AssemblyReference.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.AssemblyInfoInputs.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.AssemblyInfo.cs
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.CoreCompileInputs.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets.build.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets.development.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\scopedcss\bundle\e-Commerce.API.styles.css
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.CopyComplete
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\refint\e-Commerce.API.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.pdb
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.genruntimeconfig.cache
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\ref\e-Commerce.API.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.e-Commerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.build.e-Commerce.API.props
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.e-Commerce.API.props
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.e-Commerce.API.props
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets.pack.json
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Scrutor.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\FluentValidation.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\csCode\random\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\appsettings.Development.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\appsettings.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.exe
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.deps.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.runtimeconfig.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.API.pdb
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\AutoMapper.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Azure.Core.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Azure.Identity.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\FluentValidation.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Humanizer.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Scrutor.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.CodeDom.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Memory.Data.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Text.Json.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Data.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Services.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Data.pdb
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\bin\Debug\net6.0\e-Commerce.Services.pdb
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.AssemblyReference.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.AssemblyInfoInputs.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.AssemblyInfo.cs
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.CoreCompileInputs.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.MvcApplicationPartsAssemblyInfo.cs
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.MvcApplicationPartsAssemblyInfo.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.e-Commerce.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.build.e-Commerce.API.props
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.e-Commerce.API.props
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.e-Commerce.API.props
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets.pack.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets.build.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\staticwebassets.development.json
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\scopedcss\bundle\e-Commerce.API.styles.css
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.csproj.CopyComplete
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\refint\e-Commerce.API.dll
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.pdb
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\e-Commerce.API.genruntimeconfig.cache
+D:\csCode\ECommerceWebApp\ECommerce.API\e-Commerce Website\obj\Debug\net6.0\ref\e-Commerce.API.dll
