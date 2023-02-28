@@ -16,62 +16,77 @@
                 <div class="col-xl-9">
 
                     <h1 class="text-white mb-4">Add product</h1>
+                    <div *ngIf="this.showError" class="alert alert-danger" role="alert">{{errorMessage}}</div>
+                    <form [formGroup]="addProductFrom" form novalidate (ngSubmit)="addProduct(addProductFrom.value)">
+                        <div class="card" style="border-radius: 15px;">
+                            <div class="card-body">
 
-                    <div class="card" style="border-radius: 15px;">
-                        <div class="card-body">
+                                <div class="row align-items-center pt-4 pb-3">
+                                    <div class="col-md-3 ps-5">
 
-                            <div class="row align-items-center pt-4 pb-3">
-                                <div class="col-md-3 ps-5">
+                                        <h6 class="mb-0">Product name</h6>
 
-                                    <h6 class="mb-0">Product name</h6>
+                                    </div>
+                                    <div class="col-md-9 pe-5">
 
+                                        <input type="text" formControlName="name" class="form-control form-control-lg" />
+
+                                    </div>
                                 </div>
-                                <div class="col-md-9 pe-5">
 
-                                    <input type="text" class="form-control form-control-lg" />
+                                <hr class="mx-n3">
 
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+
+                                        <h6 class="mb-0">Price</h6>
+
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+
+                                        <input type="text" formControlName="price" class="form-control form-control-lg" />
+
+                                    </div>
                                 </div>
+                                <hr class="mx-n3">
+
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+
+                                        <h6 class="mb-0">Description</h6>
+
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+
+                                        <textarea formControlName="description" class="form-control" rows="3"></textarea>
+
+                                    </div>
+                                </div>
+
+                                <hr class="mx-n3">
+
+                                <div class="row align-items-center py-3">
+                                    <div class="col-md-3 ps-5">
+
+                                        <h6 class="mb-0">Add image</h6>
+
+                                    </div>
+                                    <div class="col-md-9 pe-5">
+
+                                        <input formControlName="image" class="form-control form-control-lg" id="formFileLg" type="file" />
+
+                                    </div>
+                                </div>
+
+                                <hr class="mx-n3">
+
+                                <div class="px-5 py-4">
+                                    <button type="submit" class="btn btn-primary btn-lg">Send application</button>
+                                </div>
+
                             </div>
-
-                            <hr class="mx-n3">
-
-                            <div class="row align-items-center py-3">
-                                <div class="col-md-3 ps-5">
-
-                                    <h6 class="mb-0">Description</h6>
-
-                                </div>
-                                <div class="col-md-9 pe-5">
-
-                                    <textarea class="form-control" rows="3"></textarea>
-
-                                </div>
-                            </div>
-
-                            <hr class="mx-n3">
-
-                            <div class="row align-items-center py-3">
-                                <div class="col-md-3 ps-5">
-
-                                    <h6 class="mb-0">Add image</h6>
-
-                                </div>
-                                <div class="col-md-9 pe-5">
-
-                                    <input class="form-control form-control-lg" id="formFileLg" type="file" />
-
-                                </div>
-                            </div>
-
-                            <hr class="mx-n3">
-
-                            <div class="px-5 py-4">
-                                <button type="submit" class="btn btn-primary btn-lg">Send application</button>
-                            </div>
-
                         </div>
-                    </div>
-
+                    </form>
                 </div>
             </div>
         </div>

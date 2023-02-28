@@ -1,5 +1,6 @@
 export interface addProductDto{
-  name: string;
-  description: string;
-  imageUrl: string;
+  Name: string;
+  Price: number;
+  Description: string;
+  Image: File;
 }

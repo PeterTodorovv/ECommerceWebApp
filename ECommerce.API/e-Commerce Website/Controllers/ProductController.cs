@@ -4,10 +4,11 @@ using e_Commerce.Services.Requests;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
+using e_Commerce.Services.Models.Pagination;
 
 namespace e_Commerce_Website.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
@@ -17,9 +18,10 @@ namespace e_Commerce_Website.Controllers
             this._productService = productService;
         }
 
-        [Authorize(Roles = "Admin")]
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] ProductRequest productRequest)
+        [Authorize(Roles = "Admin")]
+
+        public async Task<IActionResult> Post([FromForm] ProductRequest productRequest)
         {
             var product = await _productService.CreateProduct(productRequest);
             return CreatedAtAction(nameof(Get), _productService);
@@ -34,20 +36,12 @@ namespace e_Commerce_Website.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get([FromQuery] BasePagination paginationParams)
         {
-            var product = await _productService.GetAll();
+            var product = await _productService.GetAll(paginationParams);
 
             return Ok(product);
         }
 
-        [HttpPost("{AddToCart}")]
-        public async Task<IActionResult> AddToCart([FromBody] Guid productId)
-        {
-            var userId = Guid.Parse(HttpContext.User.FindFirstValue("Id"));
-            var product = await _productService.AddProductToCart(productId, userId);
-
-            return Ok(product);
-        }
     }
 }

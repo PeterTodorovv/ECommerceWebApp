@@ -2,6 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Router } from '@angular/router';
 import { addProductDto } from '../add-product/productDtos/addProductDto';
+import { BaseResponseDto } from '../user/baseResponseDto';
 import { EnvironmentUrlService } from './environment-url.service';
 
 @Injectable({
@@ -15,7 +16,7 @@ export class AddProductService {
     return `${envAddress}/${route}`;
   }
 
-  public addProduct = (route: string, body: addProductDto) => {
-    return this.http.post<addProductDto>(this.createCompleteRoute(route, this.envUrl.urlAddress), body);
+  public addProduct = (route: string, body :FormData) => {
+    return this.http.post<any>(this.createCompleteRoute(route, this.envUrl.urlAddress), body);
   }
 }
